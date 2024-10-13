@@ -9,3 +9,4 @@ AntiVM: Your file will not run in Virtual Machines or RDPs in any way (Runs calc
 Encryption Method: AES256
 
 NOT UPLOAD ON VIRUSTOTAL
+NOT RUN IN VIRTUAL MACHINE
